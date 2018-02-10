@@ -22,11 +22,11 @@ the working directory:
 	- '2012_to_2014_institutions_data.csv' 
 
 Please ensure the following packages are installed:
-	- ggplo2
-	- rjson
-	- shiny
-	- dplyr
-
+	- 'ggplot2'
+	- 'rjson' 
+	- 'shiny'
+	- 'dplyer'
+	
 ## RUNNING THE APP ##
 
 The best way to run this app, instead of running it all at once
