@@ -144,7 +144,7 @@ total_loans_de <- data_cc_DE %>%
   summarise(loans = sum(Loan_Amount_000))
 
 ui <- fluidPage(
-  titlePanel("Mortgage Analysis in "),
+  titlePanel("Mortgage Analysis in DMV"),
   
   mainPanel(
     column(12,
