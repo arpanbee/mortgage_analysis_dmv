@@ -1,4 +1,4 @@
-# Capital One Data Challenge
+# Mortgage Analysis DMV
 # Arpan Bhattacharya
 # 05/17/2016
 
@@ -26,7 +26,7 @@ business analyst explore the dataset and gain information.
 The app is self contained within App.R file.
 
 Please ensure that the following data files are available in 
-the workfing directory (/Users/arpan/Mortgage_Analysis_R)
+the working directory (/Users/arpan/Mortgage_Analysis_R)
 
 (The working directory can be changed on line 11 of App.R)
 
