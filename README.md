@@ -1,8 +1,8 @@
 # Mortgage Analysis DMV
-# Arpan Bhattacharya
-# 05/17/2016
+### Arpan Bhattacharya
+### 05/17/2016
 
-####################  CONTENTS ###############################
+# CONTENTS 
 
 Shiny Interactive App and Code for Methods
 	- App.R
@@ -10,9 +10,11 @@ Shiny Interactive App and Code for Methods
 Configuration and Deployment Instructions
 	- README.md
 
-##############################################################
-
-The app is self contained within App.R file.
+The app is self contained within App.R file.  Data needs to 
+to be downloaded and added to the working directory.  Data
+can be downloaded here: 
+http://data.arpan.info/2012_to_2014_loans_data.csv
+http://data.arpan.info/2012_to_2014_loans_data.csv
 Please ensure that the following data files are available in 
 the working directory:
 
@@ -25,17 +27,13 @@ Please ensure the following packages are installed:
 	- shiny
 	- dplyr
 
-##################  RUNNING THE APP ###########################
+## RUNNING THE APP ##
 
 The best way to run this app, instead of running it all at once
 which takes a while, is to first run lines 1 to 142.  This will 
 build all the derivative datasets using the hdma_init and 
 hdma_to_json functions.  These derivative datasets will be used
 to create the interactive Shiny charts.
-
-All derivative data is created within App.R and shares the same
-metadata as the source information.
-
 
 
 
