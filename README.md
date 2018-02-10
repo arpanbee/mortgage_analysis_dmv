@@ -2,7 +2,7 @@
 ### Arpan Bhattacharya
 ### 05/17/2016
 
-# CONTENTS 
+## CONTENTS ## 
 
 Shiny Interactive App and Code for Methods
 	- App.R
